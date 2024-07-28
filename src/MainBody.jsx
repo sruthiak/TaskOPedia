@@ -3,6 +3,9 @@ import Student from "./Components/Student/Student";
 import StudentReview from "./Components/Student/StudentReview";
 
 /*
+
+This is a functional component.
+
 const MainBody=()=>{
     //StudentReview is the child component of Student. It is passed as props.children
     return(<div style={{minHeight:"70vh"}}>
